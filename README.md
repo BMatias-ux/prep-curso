@@ -1,2 +1,1 @@
-# prep-curso
-Repositorio de prueba prepcurso
+Proyecto sobre crear un repositorio de prueba en github
